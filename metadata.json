@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Real-Time Voice Agent",
+  "description": "Engage in a real-time voice conversation with a Gemini-powered AI agent. This application demonstrates the capabilities of the Gemini Live API for low-latency, interactive voice experiences.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
